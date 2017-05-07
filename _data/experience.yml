@@ -1,0 +1,11 @@
+# Jobs
+- company: Distributed Information Technologies / Clango
+  position: Software Developer
+  duration: Jan, 2014 &mdash; Present
+  summary: Provide Object Oriented Software design for client business requirements and implementing intermediary software for the IBM Maximo Software, including developing a C# asp.net, and MXUnit testing framework. <ul class="resume-item-list"><li>Responsibilities<ul><li>Implement Coldfusion, Java, and C# web applications in a hybrid Agile and Waterfall methodology. </li><li>Provide architectural expertise in various framework designs for applications and internal testing applications. </li><li>Provide new technology research, review and assess various new technologies to incorporate into the technology stack. </li><li>Mentor interns and facilitate development both of internal and client applications. </li></ul></li><li>Highlights<ul><li>Designed and developed a bulk upload process for the S&CAP application for the Bureau of Indian Affairs, which allows inspection data to be uploaded via Microsoft Excel. </li><li>Refactored the S&CAP application to improve performance from 30 minutes to 5 minutes to upload the data to the IBM Maximo Software using integrations.Made speed and maintainability improvements in various other places to by refactoring.</li><li>Designed a template application to be for future C# applications.</li></ul></li></ul>
+
+# Windmill Crank Operator
+- company: Distributed Information Technologies
+  position: Software Develoepr Intern
+  duration: MAR, 2013 - AUG, 2013
+  summary: Assisted in providing application development for client and internal R&D applications including converting and enhancing the Fusebox 3 Framework to Framework 1
